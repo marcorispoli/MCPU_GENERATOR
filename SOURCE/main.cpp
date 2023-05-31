@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 {
 
     QApplication a(argc, argv);
-    appLog(argc, argv, "C:\\OEM\\Gantry\\Log\\mcpu_potter.log", debugWindow::debugMessageHandler);
+    appLog(argc, argv, "C:\\OEM\\Gantry\\Log\\mcpu_generator.log", debugWindow::debugMessageHandler);
 
 
     // Open the application config file
